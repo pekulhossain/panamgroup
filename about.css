@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+body{
+    background-color: rgb(147, 148, 149);
+}
+.about{
+    margin-top: 80px;
+}
+.about h1{
+   float: center;
+}
